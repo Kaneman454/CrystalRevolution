@@ -1,0 +1,72 @@
+itemGroup.crystaltab=Crystal Revolution
+
+item.ingotCopper.name=Copper Ingot
+item.ingotTin.name=Tin Ingot
+item.ingotZinc.name=Zinc Ingot
+item.ingotBronze.name=Bronze Ingot
+item.ingotBrass.name=Brass Ingot
+item.ingotCobalt.name=Cobalt Ingot
+item.ingotRhodium.name=Rhodium Ingot
+item.ingotPalladium.name=Palladium Ingot
+item.ingotOsmium.name=Osmium Ingot
+item.ingotIridium.name=Iridium Ingot
+item.ingotPlatin.name=Platin Ingot
+item.ingotMithril.name=Mithril Ingot
+
+item.gearWooden.name=Wooden Gear
+item.gearFlint.name=Flint Gear
+item.gearStone.name=Stone Gear
+item.gearCopper.name=Copper Gear
+item.gearTin.name=Tin Gear
+item.gearZinc.name=Zinc Gear
+item.gearBronze.name=Bronze Gear
+item.gearBrass.name=Brass Gear
+item.gearCobalt.name=Cobalt Gear
+item.gearRhodium.name=Rhodium Gear
+item.gearPalladium.name=Palladium Gear
+item.gearOsmium.name=Osmium Gear
+item.gearIridium.name=Iridium Gear
+item.gearPlatin.name=Platin Gear
+item.gearMithril.name=Mithril Gear
+
+item.gemAmber.name=Amber
+item.gemAmethyst.name=Amethyst
+item.gemApatite.name=Apatite
+item.gemEmerald.name=Emerald
+item.gemRuby.name=Ruby
+item.gemSapphire.name=Sapphire
+
+tile.smeltery_idle.name=Smeltery
+tile.smeltery_active.name=Smeltery
+container.smeltery=Smeltery
+
+tile.copperOre.name=Copper Ore
+tile.tinOre.name=Tin Ore
+tile.zincOre.name=Zinc Ore
+tile.cobaltOre.name=Cobalt Ore
+tile.rhodiumOre.name=Rhodium Ore
+tile.palladiumOre.name=Palladium Ore
+tile.osmiumOre.name=Osmium Ore
+tile.iridiumOre.name=Iridium Ore
+tile.platinOre.name=Platin Ore
+tile.mithrilOre.name=Mithril Ore
+
+crystalrevolution.crystalpage.name=Crystal Revolution!
+
+achievement.crystalrevolution.early_stoneage=Early Stoneage!
+achievement.crystalrevolution.stoneage=Stoneage!
+achievement.crystalrevolution.copperage=Copperage!
+achievement.crystalrevolution.bronzeage=Bronzeage!
+achievement.crystalrevolution.ringcrafting=Crafting Rings!
+achievement.crystalrevolution.early_middleage=Early Middleage!
+achievement.crystalrevolution.middleage=Hail King Arthur!
+achievement.crystalrevolution.renaissance=Rinascimento!
+
+achievement.crystalrevolution.early_stoneage.desc=Welcome to a new World!
+achievement.crystalrevolution.stoneage.desc=Congrats! You've reached the first Age!
+achievement.crystalrevolution.copperage.desc=You've reached the Copperage!
+achievement.crystalrevolution.bronzeage.desc=You've reached the Bronzeage!
+achievement.crystalrevolution.ringcrafting.desc=Bling! Bling!
+achievement.crystalrevolution.early_middleage.desc=You've reached the Early Middleage!
+achievement.crystalrevolution.middleage.desc=You've reached the Middleage!
+achievement.crystalrevolution.renaissance.desc=You've reached the Renaissance Age!
